@@ -24,7 +24,7 @@ Make sure you have the following Python packages installed:
 - pandas
 - tkinter
 - openpyxl
-- facebook_scraper
+- [facebook_scraper](https://github.com/kevinzg/facebook-scraper) 
 
 If not, they can be installed using pip:
 

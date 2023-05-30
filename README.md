@@ -1,6 +1,8 @@
 # Facebook Page Scraper (Python)
 
-This application, written in Python, is designed to scrape posts from provided Facebook pages and export the results into an Excel file. The user interface is created using Tkinter, and data manipulation and storage are handled using Pandas. 
+This application, written in Python, is designed to scrape posts from provided Facebook pages and export the results into an Excel file. The user interface is created using Tkinter, and data manipulation and storage are handled using Pandas.
+
+![Main Screen](/home.png)
 
 ## Features
 
